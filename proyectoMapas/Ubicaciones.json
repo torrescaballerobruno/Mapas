@@ -1,0 +1,83 @@
+{"lugares":[{
+            "titulo": "Instituto de Biología",
+            "latitud": 19.3226377,
+            "longitud": -99.1793692
+        },{
+            "titulo": "Anexo de Ingeniería",
+            "latitud": 19.3250715,
+            "longitud": -99.1841346
+        },{
+            "titulo": "Facultad de Ciencias",
+            "latitud": 19.3238522,
+            "longitud": -99.1801877
+        },{
+            "titulo": "Facultad de Economía",
+            "latitud": 19.3347811,
+            "longitud": -99.1834828
+        },{
+            "titulo": "Facultad de Química",
+            "latitud": 19.3232377,
+            "longitud": -99.1792637
+        },{
+            "titulo": "Biblioteca Central",
+            "latitud": 19.324897,
+            "longitud": -99.1958366
+        },{
+            "titulo": "Escuela Nacional de Trabajo Social",
+            "latitud": 19.323764,
+            "longitud": -99.1868045
+        },{
+            "titulo": "Facultad de Contaduría y Administración",
+            "latitud": 19.3240978,
+            "longitud": -99.1846067
+        },{
+            "titulo": "Instituto de Investigaciones Biomédicas",
+            "latitud": 19.3232747,
+            "longitud": -99.1913721
+        },{
+            "titulo": "Alberca Olímpica Universitaria",
+            "latitud": 19.3290865,
+            "longitud": -99.1855681
+        },{
+            "titulo": "Posgrado de Ingeniería",
+            "latitud": 19.3276961,
+            "longitud": -99.1862927
+        },{
+            "titulo": "Rectoria de la UNAM",
+            "latitud": 19.3319492,
+            "longitud": -99.1886188
+        },{
+            "titulo": "Facultad de Psicología",
+            "latitud": 19.334838,
+            "longitud": -99.188834
+        },{
+            "titulo": "Facultad de Filosofía y Letras",
+            "latitud": 19.3344593,
+            "longitud": -99.1864938
+        },{
+            "titulo": "Museo Universitario de Ciencias y Arte - MUCA",
+            "latitud": 19.3310297,
+            "longitud": -99.1876568
+        },{
+            "titulo": "Facultad de Odontología",
+            "latitud": 19.3342901,
+            "longitud": -99.1816082
+        },{
+            "titulo": "Facultad de Medicina",
+            "latitud": 19.3331143,
+            "longitud": -99.1802108
+        },{
+            "titulo": "Facultad de Ciencias Políticas y Sociales",
+            "latitud": 19.3185994,
+            "longitud": -99.1781057
+        },{
+            "titulo": "Dirección General de Orientación y Atención Educativa UNAM",
+            "latitud": 19.3281851,
+            "longitud": -99.1851478
+        },{
+            "titulo": "Facultad de Derecho",
+            "latitud": 19.3346575,
+            "longitud": -99.1849516
+        }
+    ]
+}
